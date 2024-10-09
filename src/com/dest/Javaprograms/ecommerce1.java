@@ -1,4 +1,4 @@
-package com.dest.ecommarce;
+package com.dest.Javaprograms;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Random;
